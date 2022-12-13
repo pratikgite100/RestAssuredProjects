@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-13T17:02:19 IST" name="Default suite" finished-at="2022-12-13T17:03:36 IST" duration-ms="76867">
+    <groups>
+    </groups>
+    <test started-at="2022-12-13T17:02:19 IST" name="Default test" finished-at="2022-12-13T17:03:36 IST" duration-ms="76867">
+      <class name="com.aandhi.Testcase1">
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.aandhi.Testcase1@54bff557]" started-at="2022-12-13T17:02:20 IST" name="login" data-provider="empdataprovider1" finished-at="2022-12-13T17:02:43 IST" duration-ms="23665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dgami22197@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dhruvit@22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.aandhi.Testcase1@54bff557]" started-at="2022-12-13T17:02:43 IST" name="login" data-provider="empdataprovider1" finished-at="2022-12-13T17:03:07 IST" duration-ms="23481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pratikgite100@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asss]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.aandhi.Testcase1@54bff557]" started-at="2022-12-13T17:03:07 IST" name="login" data-provider="empdataprovider1" finished-at="2022-12-13T17:03:36 IST" duration-ms="28881" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dgami22197@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dhruvit@22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.aandhi.Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
