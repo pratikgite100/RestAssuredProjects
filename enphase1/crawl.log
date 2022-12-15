@@ -1,0 +1,276 @@
+INFO	2022-12-14 14:38:07,939	0	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:38:07,955	16	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking COntentEncoding***********************************
+INFO	2022-12-14 14:38:07,955	16	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:38:07,959	20	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking ResponseBody***********************************
+INFO	2022-12-14 14:38:07,967	28	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{"apiAccess":"true","account_id":"60cc6e48aa05fd40e0028e32","GS-Authorization":"eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6IjExODdmMGNmLTdiZTctNGMxMC1hMGQ1LThkM2RmOWQxZmU2YyIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NTI4NH0.pDoXgHg8WNxGAcD4Pz7EVeBGz5eRn7pcT2vhJyGr46PoHSb3xWyKCZ8TXncscyVRdRRCSUw1pgaivgZLfgErvA","user_name":"Dhruvit Gami","gsmAccess":"true","roles":["ACCOUNT_ADMIN","ACCOUNT_USER"],"account_time_zone":"Africa/Abidjan","id":"dgami22197@gmail.com","message":"Logged in Successfully","account_company_name":"Grid services account","status":"Success","user_login_timestamp":"2022-12-14 09:08:04"}
+INFO	2022-12-14 14:38:07,974	35	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking StatusCode***********************************
+INFO	2022-12-14 14:38:07,974	35	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:38:07,978	39	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking StatusLine***********************************
+INFO	2022-12-14 14:38:07,979	40	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:42:05,424	0	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:42:05,438	14	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking COntentEncoding***********************************
+INFO	2022-12-14 14:42:05,438	14	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:42:05,445	21	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking ResponseBody***********************************
+INFO	2022-12-14 14:42:05,453	29	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{"apiAccess":"true","account_id":"60cc6e48aa05fd40e0028e32","GS-Authorization":"eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6ImE2NDBhMjI1LWYyZjYtNGQ3NS1iOTE4LWJjNzM3NDcxZTBhYSIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NTUyMn0.anD6P3Tx3nBz1xPNPOQh4QXgqHNYf466xE5JaNlR1W2ostmvnVuOCYApy_P9gzCvet63CXQxZrA6Dx6kxXvAKA","user_name":"Dhruvit Gami","gsmAccess":"true","roles":["ACCOUNT_ADMIN","ACCOUNT_USER"],"account_time_zone":"Africa/Abidjan","id":"dgami22197@gmail.com","message":"Logged in Successfully","account_company_name":"Grid services account","status":"Success","user_login_timestamp":"2022-12-14 09:12:02"}
+INFO	2022-12-14 14:42:05,456	32	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking StatusCode***********************************
+INFO	2022-12-14 14:42:05,457	33	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:42:05,461	37	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking StatusLine***********************************
+INFO	2022-12-14 14:42:05,461	37	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:46:38,828	4715	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:46:38,839	4726	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking COntentEncoding***********************************
+INFO	2022-12-14 14:46:38,840	4727	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:46:38,847	4734	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking ResponseBody***********************************
+INFO	2022-12-14 14:46:38,861	4748	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{"apiAccess":"true","account_id":"60cc6e48aa05fd40e0028e32","GS-Authorization":"eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6ImUxNWI5MmY2LTQyYjgtNGRhOS1iOTlmLTEzMTUxNDgxZmI1NiIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NTc5NX0._OV1Ep63jBdoqFqeLlwvxEEn43cHYXwn8bQYonHWIeaN3OWq5ni2EzFcl-6Puf7h0f8Ew3uRDNAqi4rvf4CX6g","user_name":"Dhruvit Gami","gsmAccess":"true","roles":["ACCOUNT_ADMIN","ACCOUNT_USER"],"account_time_zone":"Africa/Abidjan","id":"dgami22197@gmail.com","message":"Logged in Successfully","account_company_name":"Grid services account","status":"Success","user_login_timestamp":"2022-12-14 09:16:35"}
+INFO	2022-12-14 14:46:38,865	4752	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking StatusCode***********************************
+INFO	2022-12-14 14:46:38,865	4752	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:46:38,869	4756	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking StatusLine***********************************
+INFO	2022-12-14 14:46:38,869	4756	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:50:35,800	4940	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:50:35,815	4955	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking COntentEncoding***********************************
+INFO	2022-12-14 14:50:35,815	4955	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:50:35,821	4961	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking ResponseBody***********************************
+INFO	2022-12-14 14:50:35,821	4961	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{
+    "apiAccess": "true",
+    "account_id": "60cc6e48aa05fd40e0028e32",
+    "GS-Authorization": "eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6Ijc3ZGI0NzkzLWJiZjEtNDUyNi1iYmJmLTE0NWEwMGYwMDY1ZCIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NjAzMn0.gqL6HW-D5ANuwtHp8_oyrkyL1lNiZOB7l4FOF19FLbXNkEpk3DSfqxIr3HFIo-IQ6-7PwFWLJuN0LGo5Qr_mSg",
+    "user_name": "Dhruvit Gami",
+    "gsmAccess": "true",
+    "roles": [
+        "ACCOUNT_ADMIN",
+        "ACCOUNT_USER"
+    ],
+    "account_time_zone": "Africa/Abidjan",
+    "id": "dgami22197@gmail.com",
+    "message": "Logged in Successfully",
+    "account_company_name": "Grid services account",
+    "status": "Success",
+    "user_login_timestamp": "2022-12-14 09:20:32"
+}
+INFO	2022-12-14 14:50:35,823	4963	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking StatusCode***********************************
+INFO	2022-12-14 14:50:35,823	4963	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:50:35,825	4965	com.aandhi.restAssured.RestTestcase2	[main]	***************************Checking StatusLine***********************************
+INFO	2022-12-14 14:50:35,825	4965	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:52:20,864	4826	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:52:20,881	4843	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 14:52:20,882	4844	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:52:20,893	4855	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking ResponseBody--------
+INFO	2022-12-14 14:52:20,960	4922	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{
+    "apiAccess": "true",
+    "account_id": "60cc6e48aa05fd40e0028e32",
+    "GS-Authorization": "eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6ImU3NjZkZTI4LTU1ZGYtNDM3MC04NTUwLTUyNzk2NmVhNjI1NyIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NjEzN30.VNXZ1AjXdXSX1plsrKKoo4LJvwAp6hTI0rL6cStw0JGz0221KaApSx-l4lqI9__UAym0ZQia9J6h64QmcOON5A",
+    "user_name": "Dhruvit Gami",
+    "gsmAccess": "true",
+    "roles": [
+        "ACCOUNT_ADMIN",
+        "ACCOUNT_USER"
+    ],
+    "account_time_zone": "Africa/Abidjan",
+    "id": "dgami22197@gmail.com",
+    "message": "Logged in Successfully",
+    "account_company_name": "Grid services account",
+    "status": "Success",
+    "user_login_timestamp": "2022-12-14 09:22:17"
+}
+INFO	2022-12-14 14:52:20,963	4925	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 14:52:20,964	4926	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:52:20,968	4930	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 14:52:20,968	4930	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:53:12,267	4708	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:53:12,282	4723	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 14:53:12,283	4724	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:53:12,289	4730	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking ResponseBody--------
+INFO	2022-12-14 14:53:12,305	4746	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{"apiAccess":"true","account_id":"60cc6e48aa05fd40e0028e32","GS-Authorization":"eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6ImJiMDI2NmU2LWY0MjMtNDA4Ni04NTVhLTVmOTNjY2JhNjJhMiIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NjE4OH0.K9zA4TyBqcZufp8vOswQfqQJueJPcPI8xoeEN2Vfig_4sWCxrqeAdFauajMCMiKbM4jPGYIAOShqogVv5wY7ZQ","user_name":"Dhruvit Gami","gsmAccess":"true","roles":["ACCOUNT_ADMIN","ACCOUNT_USER"],"account_time_zone":"Africa/Abidjan","id":"dgami22197@gmail.com","message":"Logged in Successfully","account_company_name":"Grid services account","status":"Success","user_login_timestamp":"2022-12-14 09:23:08"}
+INFO	2022-12-14 14:53:12,308	4749	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 14:53:12,309	4750	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:53:12,311	4752	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 14:53:12,312	4753	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:54:46,999	4778	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:54:47,015	4794	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 14:54:47,015	4794	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:54:47,026	4805	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking ResponseBody--------
+INFO	2022-12-14 14:54:47,040	4819	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{"apiAccess":"true","account_id":"60cc6e48aa05fd40e0028e32","GS-Authorization":"eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6ImY2MzAxZjViLWYyM2QtNDUxNC1hOTcwLTQ4OWEzZmFkMWZhOCIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NjI4M30.AjG1GGD6HInOfQvyGFkORvTt5SOGnFFf-2UGdZcmFd4hzDNSMwewCC5ZAhLZJulQLu_LOEwCOZGXdzBZR-9f4g","user_name":"Dhruvit Gami","gsmAccess":"true","roles":["ACCOUNT_ADMIN","ACCOUNT_USER"],"account_time_zone":"Africa/Abidjan","id":"dgami22197@gmail.com","message":"Logged in Successfully","account_company_name":"Grid services account","status":"Success","user_login_timestamp":"2022-12-14 09:24:43"}
+INFO	2022-12-14 14:54:47,044	4823	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 14:54:47,045	4824	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:54:47,047	4826	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 14:54:47,047	4826	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:55:12,103	4755	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:55:12,125	4777	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 14:55:12,126	4778	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:55:12,133	4785	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking ResponseBody--------
+INFO	2022-12-14 14:55:12,151	4803	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{"apiAccess":"true","account_id":"60cc6e48aa05fd40e0028e32","GS-Authorization":"eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6Ijk5NDMwMjc4LTE2ZjktNDY4OS1hMTA2LWZhYTg1YmNkODYzMCIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NjMwOH0.0Lk68cE6Hko-s0nzsa4Cp-esFPShYe7AblI-ACoqVR4hzlY538dkNxJ7z0m16yTKCw9mtKPiPNI1lFWNbUgkLw","user_name":"Dhruvit Gami","gsmAccess":"true","roles":["ACCOUNT_ADMIN","ACCOUNT_USER"],"account_time_zone":"Africa/Abidjan","id":"dgami22197@gmail.com","message":"Logged in Successfully","account_company_name":"Grid services account","status":"Success","user_login_timestamp":"2022-12-14 09:25:08"}
+INFO	2022-12-14 14:55:12,156	4808	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 14:55:12,157	4809	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:55:12,159	4811	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 14:55:12,159	4811	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:55:43,959	4850	com.aandhi.restAssured.RestTestcase2	[main]	_____________________________________________________________________
+INFO	2022-12-14 14:55:43,976	4867	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 14:55:43,977	4868	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:55:43,985	4876	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking ResponseBody--------
+INFO	2022-12-14 14:55:44,000	4891	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{"apiAccess":"true","account_id":"60cc6e48aa05fd40e0028e32","GS-Authorization":"eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6IjM0YzZiMWRjLWFhYzktNDhhYS1hMzM1LTI2MmUzOTg4YjQ2ZCIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NjM0MH0.uGJDH3Ge5xPX15KNzjMvnSCyiME5fg67v_alBaLXzfHoeBYzPIHIf9Qmbr-JSLtAwLBE1-C-8bhEBpKJlNyOAg","user_name":"Dhruvit Gami","gsmAccess":"true","roles":["ACCOUNT_ADMIN","ACCOUNT_USER"],"account_time_zone":"Africa/Abidjan","id":"dgami22197@gmail.com","message":"Logged in Successfully","account_company_name":"Grid services account","status":"Success","user_login_timestamp":"2022-12-14 09:25:40"}
+INFO	2022-12-14 14:55:44,006	4897	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 14:55:44,008	4899	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:55:44,010	4901	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 14:55:44,011	4902	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 14:58:04,700	5667	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 14:58:04,701	5668	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 14:58:04,710	5677	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking ResponseBody--------
+INFO	2022-12-14 14:58:04,718	5685	com.aandhi.restAssured.RestTestcase2	[main]	Response Body ==>{"apiAccess":"true","account_id":"60cc6e48aa05fd40e0028e32","GS-Authorization":"eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6ImRjMjY3N2ZjLWJhNWEtNDZiNi05YjNjLWQyZDJkMDZhOTllNyIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5NjQ4MX0.p9TdI_JEohWT_4kVvGyMav9Hs0lD00j9NDYeQomKfixuv-BYXUr5aZVz4ISZut8ubKZ4mtoh_07aznzBYKlx0g","user_name":"Dhruvit Gami","gsmAccess":"true","roles":["ACCOUNT_ADMIN","ACCOUNT_USER"],"account_time_zone":"Africa/Abidjan","id":"dgami22197@gmail.com","message":"Logged in Successfully","account_company_name":"Grid services account","status":"Success","user_login_timestamp":"2022-12-14 09:28:01"}
+INFO	2022-12-14 14:58:04,723	5690	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 14:58:04,723	5690	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 14:58:04,727	5694	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 14:58:04,727	5694	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 15:02:37,727	4831	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:02:37,729	4833	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 15:02:37,756	4860	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:02:37,756	4860	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 15:02:37,760	4864	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:02:37,760	4864	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 15:17:30,587	4871	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:17:30,589	4873	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>gzip
+INFO	2022-12-14 15:17:30,609	4893	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:17:30,609	4893	com.aandhi.restAssured.RestTestcase2	[main]	Status Code is ==>200
+INFO	2022-12-14 15:17:30,611	4895	com.aandhi.restAssured.RestTestcase2	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:17:30,612	4896	com.aandhi.restAssured.RestTestcase2	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 15:30:53,437	6798	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:30:53,440	6801	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:30:53,454	6815	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:30:53,455	6816	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:30:53,457	6818	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:30:53,458	6819	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:36:27,458	8073	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:36:27,460	8075	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>gzip
+INFO	2022-12-14 15:36:27,474	8089	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:36:27,474	8089	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>200
+INFO	2022-12-14 15:36:27,477	8092	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:36:27,477	8092	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 15:39:12,627	5843	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:39:12,629	5845	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>gzip
+INFO	2022-12-14 15:39:12,649	5865	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:39:12,649	5865	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>200
+INFO	2022-12-14 15:39:12,651	5867	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:39:12,651	5867	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 15:40:27,980	5779	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:40:27,982	5781	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>gzip
+INFO	2022-12-14 15:40:28,008	5807	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:40:28,010	5809	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>200
+INFO	2022-12-14 15:40:28,014	5813	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:40:28,014	5813	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 15:41:41,667	7219	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:41:41,669	7221	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:41:41,677	7229	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:41:41,678	7230	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:41:41,680	7232	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:41:41,680	7232	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:44:52,881	6835	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:44:52,882	6836	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:44:52,888	6842	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:44:52,889	6843	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:44:52,891	6845	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:44:52,892	6846	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:45:35,347	7262	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:45:35,349	7264	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:45:35,355	7270	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:45:35,355	7270	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:45:35,357	7272	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:45:35,357	7272	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:47:40,169	7181	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:47:40,171	7183	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:47:40,176	7188	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:47:40,176	7188	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:47:40,180	7192	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:47:40,180	7192	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:48:23,197	6917	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:48:23,200	6920	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:48:23,207	6927	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:48:23,208	6928	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:48:23,210	6930	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:48:23,210	6930	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:49:32,045	0	com.aandhi.restAssured.RestTestcase3	[main]	--------GS-Authorization--------eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6Ijg5ODc4NGVlLTkwMGQtNDM5NS04OTkzLWMwZmQyYTc2ZTkxNyIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5OTU2OH0.GwnoGl-OxFTcAuqOctZs1M28BBL2PWuWSMtrFg0R_IZKUvtTlNvSbU0RBYpP-VHP7SqRkbSBXTZl-BTTBL2pJA
+INFO	2022-12-14 15:49:33,833	1788	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:49:33,833	1788	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:49:33,842	1797	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:49:33,842	1797	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:49:33,846	1801	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:49:33,847	1802	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:51:12,169	0	com.aandhi.restAssured.RestTestcase3	[main]	--------GS-Authorization--------eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6IjQyMDJjZDExLWY5NGMtNGU1NC04YTQ4LTliY2UwNzNjNjUzMCIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5OTY2OH0.7BUIgPsCQ1VWHyk_rd6W3b8BQhpmMi5WtQ5G5VdZ-cJepSc108DgG0LxRsztAlD60qEM0k5D9AAPYN6WT_kmog
+INFO	2022-12-14 15:51:14,287	2118	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:51:14,287	2118	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:51:14,293	2124	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:51:14,294	2125	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:51:14,297	2128	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:51:14,297	2128	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:54:21,911	0	com.aandhi.restAssured.RestTestcase3	[main]	--------GS-Authorization--------eyJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50X2lkIjoiNjBjYzZlNDhhYTA1ZmQ0MGUwMDI4ZTMyIiwibmFtZSI6ImRnYW1pMjIxOTdAZ21haWwuY29tIiwic2Vzc2lvbl9pZCI6IjI5ZjU2ZjU3LTZkNDEtNGZkMy04MmIzLTZlMmEyZjM4ZTVmNCIsIlJvbGVzIjpbeyJhdXRob3JpdHkiOiJBQ0NPVU5UX0FETUlOIn0seyJhdXRob3JpdHkiOiJBQ0NPVU5UX1VTRVIifV0sImV4cCI6MTY3MTA5OTg1OH0.2HN6_2pRMa-AOw0s170jINu8FO2AGxkz70mht1CKZsHl8DDx2Sm_ybGr7PtPYiFJIeCX_hPz4a83Gai7hd2mow
+INFO	2022-12-14 15:54:24,035	2124	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:54:24,036	2125	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:54:24,045	2134	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:54:24,046	2135	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:54:24,048	2137	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:54:24,049	2138	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 15:56:14,324	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 15:56:14,327	3	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 15:56:14,335	11	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 15:56:14,335	11	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 15:56:14,340	16	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 15:56:14,341	17	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 16:04:21,337	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 16:04:21,338	1	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 16:04:21,346	9	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 16:04:21,346	9	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 16:04:21,349	12	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 16:04:21,349	12	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 16:05:51,371	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 16:05:51,374	3	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 16:05:51,383	12	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 16:05:51,383	12	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 16:05:51,385	14	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 16:05:51,386	15	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 16:12:33,888	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 16:12:33,890	2	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 16:12:33,898	10	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 16:12:33,898	10	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 16:12:33,902	14	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 16:12:33,903	15	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 16:14:18,751	1	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 16:14:18,755	5	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 16:14:18,764	14	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 16:14:18,765	15	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 16:14:18,766	16	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 16:14:18,767	17	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 16:16:42,622	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 16:16:42,625	3	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 16:16:42,634	12	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 16:16:42,635	13	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 16:16:42,638	16	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 16:16:42,639	17	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 16:20:28,006	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 16:20:28,008	2	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>401
+INFO	2022-12-14 16:20:28,016	10	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 16:20:28,016	10	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 401 Unauthorized
+INFO	2022-12-14 16:20:28,018	12	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 16:20:28,019	13	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>null
+INFO	2022-12-14 16:25:21,627	0	com.aandhi.restAssured.RestTestcase3	[main]	
+INFO	2022-12-14 16:26:06,958	0	com.aandhi.restAssured.RestTestcase3	[main]	io.restassured.internal.RestAssuredResponseImpl@5584d9c6
+INFO	2022-12-14 17:26:39,626	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 17:26:39,629	3	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>200
+INFO	2022-12-14 17:26:39,631	5	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 17:26:39,631	5	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 17:26:39,635	9	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 17:26:39,635	9	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>gzip
+INFO	2022-12-14 17:56:07,929	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 17:56:07,932	3	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>200
+INFO	2022-12-14 17:56:07,936	7	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 17:56:07,936	7	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 17:56:07,940	11	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 17:56:07,941	12	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>gzip
+INFO	2022-12-14 18:03:19,961	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 18:03:19,964	3	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>200
+INFO	2022-12-14 18:03:19,967	6	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 18:03:19,967	6	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 18:03:19,972	11	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 18:03:19,972	11	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>gzip
+INFO	2022-12-14 18:10:40,385	0	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusCode--------
+INFO	2022-12-14 18:10:40,388	3	com.aandhi.restAssured.RestTestcase3	[main]	Status Code is ==>200
+INFO	2022-12-14 18:10:40,394	9	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking StatusLine--------
+INFO	2022-12-14 18:10:40,395	10	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>HTTP/1.1 200 OK
+INFO	2022-12-14 18:10:40,399	14	com.aandhi.restAssured.RestTestcase3	[main]	--------Checking COntentEncoding--------
+INFO	2022-12-14 18:10:40,399	14	com.aandhi.restAssured.RestTestcase3	[main]	Satus Line ==>gzip

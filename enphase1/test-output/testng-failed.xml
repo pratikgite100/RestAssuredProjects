@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.aandhi.Testcase2">
+      <class name="com.aandhi.restAssured.RestTestcase3">
         <methods>
-          <include name="signUpUser" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="signOut"/>
         </methods>
-      </class> <!-- com.aandhi.Testcase2 -->
+      </class> <!-- com.aandhi.restAssured.RestTestcase3 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
